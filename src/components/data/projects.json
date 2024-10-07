@@ -1,0 +1,19 @@
+[
+  {
+    "key": 1,
+    "title": "Wedding Management",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5zETH3uIKptfv11cAxX_FBeiwUjhF8AZ_jw&s",
+    "description": "This is a project made with HTML CSS and JS.",
+    "demo": "https://ratanlodhi.github.io/Wedding-Managemnet/",
+    "source": "https://github.com/ratanlodhi/Wedding-Managemnet"
+  },
+  {
+    "key": 2,
+    "title": "Car Rental",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHNXegXWWJmhgkVo-2ve4PF18zFaG5ubf8w&s",
+    "description": "This is a project made with HTML CSS and JS.",
+    "demo": "https://car-rental-website-delta-three.vercel.app/",
+    "source": "https://github.com/ratanlodhi/Wedding-Managemnet"
+  }
+
+]

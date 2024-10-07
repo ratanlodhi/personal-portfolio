@@ -1,0 +1,16 @@
+
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer Engineer SDE - Netro",
+    "organisation": "Google",
+    "startDate": "Feb, 2023",
+    "endDate": "Augest, 2024",
+    "location": "Indore,Madhya Pradesh",
+    "experiences": [
+      "Worked on Netro UI",
+      "Worked with the Netro Bard Team"
+    ],
+    "imageSrc": "company/logo.jpg"
+  }]
+  
